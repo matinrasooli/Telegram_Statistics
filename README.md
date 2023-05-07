@@ -6,6 +6,6 @@ very amazing , but simple and could improve more.
 It leads to a Telegram Bot which can describe Telegram group chat's Statistics!
 
 <p align="center">
-  <img src="./a.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="./a.png" width="650" title="hover text">
+  
 </p>
