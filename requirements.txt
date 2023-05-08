@@ -1,0 +1,6 @@
+
+arabic-reshaper==3.0.0
+hazm==0.7.0
+matplotlib==3.7.1
+pathlib==1.0.1
+python-bidi==0.4.2
